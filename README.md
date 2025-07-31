@@ -15,7 +15,7 @@ Proyecto individual de desarrollo web realizado durante una actividad formativa.
 ---
 
 ## 📫 Contacto
-- [LinkedIn](https://linkedin.com/in/tuusuario)
-- [Correo electrónico](mailto:tucorreo@example.com)
+- [LinkedIn] https://www.linkedin.com/in/mafe-romero/
+
 
 ¡Gracias por visitar mi perfil!
